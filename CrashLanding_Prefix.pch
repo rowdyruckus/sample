@@ -1,0 +1,6 @@
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#define IS_APP_CIRCLE_ENABLE 1
+#endif
